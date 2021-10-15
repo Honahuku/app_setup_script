@@ -1,0 +1,2 @@
+# app_setup_script
+windowsにてhonahukuが利用するPCの設定を自動で行うスクリプトです
